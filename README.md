@@ -8,6 +8,6 @@ Sample built report <br/>
 <img src="Report 2.png" height="80%" width="80%" />
 <br />
   <br />
-Build Dashboard <br/>
+Built Dashboard <br/>
 <img src="DB.png" height="80%" width="80%" />
 <br />
